@@ -1,1 +1,1 @@
-!function(i){i.EasyEditConfig.assetFinderLocations=[395979,87,2864,402133,402134]}(window);
+window.EasyEditConfig.assetFinderLocations=[395979,87,2864,402133,402134];

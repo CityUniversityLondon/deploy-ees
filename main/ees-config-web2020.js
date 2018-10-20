@@ -1,0 +1,1 @@
+window.EasyEditConfig={cascadeThreshold:4,assetFinderCacheEnabled:!0,assetFinderLocations:[419881,419882],assetFinderMaxAssets:100,cacheManagerDefaultExpiry:2,allowFutureStatusChange:!0,showChildrenOnLinkingScreen:!0};

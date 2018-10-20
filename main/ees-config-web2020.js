@@ -1,1 +1,1 @@
-window.EasyEditConfig={cascadeThreshold:4,assetFinderCacheEnabled:!0,assetFinderLocations:[419881,419882],assetFinderMaxAssets:100,cacheManagerDefaultExpiry:2,allowFutureStatusChange:!0,showChildrenOnLinkingScreen:!0};
+!function(i){i.EasyEditConfig.cascadeThreshold=4,i.EasyEditConfig.assetFinderCacheEnabled=!0,i.EasyEditConfig.assetFinderLocations=[419881,419882],i.EasyEditConfig.assetFinderMaxAssets=100,i.EasyEditConfig.cacheManagerDefaultExpiry=2,i.EasyEditConfig.allowFutureStatusChange=!0,i.EasyEditConfig.showChildrenOnLinkingScreen=!0}(window);

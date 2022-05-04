@@ -1,0 +1,1 @@
+!function(i){i.EasyEditConfig.cascadeThreshold=4,i.EasyEditConfig.assetFinderCacheEnabled=!0,i.EasyEditConfig.assetFinderLocations=[286893,668323,668324,419880],i.EasyEditConfig.assetFinderMaxAssets=100,i.EasyEditConfig.cacheManagerDefaultExpiry=2,i.EasyEditConfig.allowFutureStatusChange=!0,i.EasyEditConfig.showChildrenOnLinkingScreen=!0}(window);
